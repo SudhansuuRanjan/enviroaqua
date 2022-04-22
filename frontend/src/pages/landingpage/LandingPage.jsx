@@ -111,28 +111,28 @@ Go sustainable  <span className="red-text"> to water for us.</span>
           </div>
         </div>
         <div className="page1-right">
-          <img src="img/dev-focus.svg" alt="" className="focus" />
+          <img src="https://pbs.twimg.com/media/ExFYMRSWYAkLhWS.jpg" alt="" className="focus" />
         </div>
       </div>
 
       <main className="page2">
         <div className="cards ">
           <div className="page2-item card1">
-            <img src="img/creative-draft.svg" alt="" className="svg1" />
+            <img src="https://static.pbslearningmedia.org/media/media_files/cedef81d-b17f-4d94-8fdf-a24517fca3c3/48e01d8a-6ba2-4e5e-a6c5-be65064f593a.jpg" alt="" className="svg1" />
             <h2 className="text-line1">Need of Enviroaqua</h2>
             <h3 className="text-line2">
             Responsible water use is essential in the current situation.As our core idea is about data, so let us look at data :).Fresh water withdrawals have increased six-fold since the beginning of the 20th century, raising the question of whether we are using the water that we have sustainably.
             </h3>
           </div>
           <div className="page2-item card2">
-            <img src="img/accept-tasks.svg" alt="" className="svg1" />
+            <img src="https://cdn2.vectorstock.com/i/1000x1000/27/91/police-or-ambulance-red-flasher-siren-alarm-icon-vector-8102791.jpg" alt="" className="svg1" />
             <h2 className="text-line1">What is Enviroaqua</h2>
             <h3 className="text-line2">
              Enviroaqua is an initiative to implement what we are taught a thousands time theoritically i.e sustainable usage of water, water wastage , water conservation and what not.On analyzing data on water usage, we get to know where usage of water limit exceeds,automated warning is generated.
             </h3>
           </div>
           <div className="page2-item card3">
-            <img src="img/growth-curve.svg" alt="" className="svg1" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8U8SNmOMPeO5kz3kHE42-4CZN75YHTL4TA&usqp=CAU" alt="" className="svg1" />
             <h2 className="text-line1">Show Support</h2>
             <h3 className="text-line2">
              We are obliged to join our hands for betterment of enviromental issues otherwise we can't predict the misrey on earth. 
@@ -143,7 +143,7 @@ Go sustainable  <span className="red-text"> to water for us.</span>
         <div className="experience">
           <div className="absurd">
             {" "}
-            <img src="img/experience-tailmars-design.svg" alt="" className="demo" />
+            <img src="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/7/w900X450/TAP1.jpg?w=400&dpr=2.6" alt="" className="demo" />
           </div>
           <div className="exp-right">
             <h3 className="exp-head">
@@ -171,11 +171,8 @@ Go sustainable  <span className="red-text"> to water for us.</span>
         </div>
 
         <div className="purchase-black">
-          <h2 className="textt1">Simple pricing</h2>
-          <h4 className="textt2">
-            For a one-time purchase, you'll get access to lifetime releases of
-            landing pages and components as we advance our theme.
-          </h4>
+          <h2 className="textt1">Water, Water Not Everywhere</h2>
+          
         </div>
 
         <div className="purchase-box">
@@ -183,7 +180,8 @@ Go sustainable  <span className="red-text"> to water for us.</span>
           {/* <h1 className="textt4">$5</h1> */}
           <h4 className="textt3">Wanna Save Water?</h4>
           <hr noshade />
-          <h4 className="textt3">Subscribe us to get Water Saving updates from us.</h4>
+          <h4 className="textt3">If not ,Why not</h4>
+           <h4 class="textt3">Do not be selfish. Join us for good cause.</h4>
           <form >
             <label htmlFor="email" className="textt3"></label><br/>
             <input type="email" name="email" id="email" placeholder="Enter Your Email ID" />
